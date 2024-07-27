@@ -1,0 +1,1 @@
+this project is a personal administrator that allows you to add, read, mark as complete and delete things that i have to do without a database
